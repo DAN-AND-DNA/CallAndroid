@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CallAndroid",
+	"Description": "call android",
+	"Category": "Other",
+	"CreatedBy": "dan",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CallAndroid",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
